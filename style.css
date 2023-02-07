@@ -51,6 +51,9 @@ body {
 .card-text {
     display: flex;
     flex-direction: column;
+}
+
+.text{
     padding: 1.5rem;
 }
 
